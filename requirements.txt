@@ -1,0 +1,5 @@
+requests
+dnspython
+aiohttp
+aiohttp-retry
+aiodns
